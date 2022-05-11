@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 [![My Github](https://github.com/DuruCeren/DuruCeren/blob/main/github.png)](https://github.com/DuruCeren)
 [![My LinkedIn](https://github.com/DuruCeren/DuruCeren/blob/main/linkedin.png)](https://www.linkedin.com/in/duru-ceren-cerit/)
 -->
-<a href="https://github.com/DuruCeren"><img src="https://github.com/DuruCeren/DuruCeren/blob/main/github.png" alt="My GitHub" width="5%"></a>
-<a href="https://www.linkedin.com/in/duru-ceren-cerit/"><img src="https://github.com/DuruCeren/DuruCeren/blob/main/linkedin.png" alt="My LinkedIn" width="5%"></a>
+<h1>Duru Ceren Cerit</h1>
+
+<h2>My Accounts</h2>
+  <a href="https://github.com/DuruCeren"><img src="https://github.com/DuruCeren/DuruCeren/blob/main/github.png" alt="My GitHub" width="5%"></a>
+  <a href="https://www.linkedin.com/in/duru-ceren-cerit/"><img src="https://github.com/DuruCeren/DuruCeren/blob/main/linkedin.png" alt="My LinkedIn" width="5%"></a>
