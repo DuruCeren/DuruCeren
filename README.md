@@ -13,8 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+[![My Github](C:\Users\duruc\Aerospace Engineer Dropbox\Duru Ceren\My PC (LAPTOP-1CO8MQ3T)\Desktop\kariyer\github.png)](https://github.com/DuruCeren)
+[![My LinkedIn](C:\Users\duruc\Aerospace Engineer Dropbox\Duru Ceren\My PC (LAPTOP-1CO8MQ3T)\Desktop\kariyer\linkedin.png)](https://www.linkedin.com/in/duru-ceren-cerit/)
