@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Github](C:\Users\duruc\Aerospace Engineer Dropbox\Duru Ceren\My PC (LAPTOP-1CO8MQ3T)\Desktop\kariyer\github.png)](https://github.com/DuruCeren)
-[![My LinkedIn](C:\Users\duruc\Aerospace Engineer Dropbox\Duru Ceren\My PC (LAPTOP-1CO8MQ3T)\Desktop\kariyer\linkedin.png)](https://www.linkedin.com/in/duru-ceren-cerit/)
+[![My Github](\Desktop\kariyer\github.png)](https://github.com/DuruCeren)
+[![My LinkedIn](\Desktop\kariyer\linkedin.png)](https://www.linkedin.com/in/duru-ceren-cerit/)
