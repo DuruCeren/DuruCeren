@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Github](\Desktop\kariyer\github.png)](https://github.com/DuruCeren)
-[![My LinkedIn](\Desktop\kariyer\linkedin.png)](https://www.linkedin.com/in/duru-ceren-cerit/)
+[![My Github](\github.png)](https://github.com/DuruCeren)
+[![My LinkedIn](\linkedin.png)](https://www.linkedin.com/in/duru-ceren-cerit/)
