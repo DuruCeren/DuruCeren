@@ -23,4 +23,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/duru-ceren-cerit/"><img src="https://github.com/DuruCeren/DuruCeren/blob/main/linkedin.png" alt="My LinkedIn" width="5%"></a>
   
 <h2>Education</h2>
-<p><img src="">Middle East Technical University</p>
+<p><img src="https://github.com/DuruCeren/DuruCeren/blob/main/odtt.png">Middle East Technical University</p>
+<p>(Bachelor's) 2020-recent</p>
+<p><img src="">TED ALiağa College</p>
+<p>(High School) 2017-2020</p>
+<p><img src="">Ordu Anatolian High School</p>
+<p>(High School) 2016-2017</p>
