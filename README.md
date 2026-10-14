@@ -1,34 +1,50 @@
-<!--
-**DuruCeren/DuruCeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Duru Ceren Cerit 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/duru-ceren-cerit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duruceren1952@gmail.com)
+[![Institution](https://img.shields.io/badge/METU-Aerospace%20Engineering-red?style=flat)](https://ae.metu.edu.tr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-[![My Github](https://github.com/DuruCeren/DuruCeren/blob/main/github.png)](https://github.com/DuruCeren)
-[![My LinkedIn](https://github.com/DuruCeren/DuruCeren/blob/main/linkedin.png)](https://www.linkedin.com/in/duru-ceren-cerit/)
--->
-<h1>Duru Ceren Cerit</h1>
+I am an **Aerospace Engineer & Graduate Researcher** at Middle East Technical University (METU), focusing on **hypersonic aerothermodynamics, boundary layer transition prediction, and computational fluid dynamics**. 
 
-<h2>My Accounts</h2>
-  <a href="https://github.com/DuruCeren"><img src="https://github.com/DuruCeren/DuruCeren/blob/main/github.png" alt="My GitHub" width="5%"></a>
-  <a href="https://www.linkedin.com/in/duru-ceren-cerit/"><img src="https://github.com/DuruCeren/DuruCeren/blob/main/linkedin.png" alt="My LinkedIn" width="5%"></a>
-  
-<h2>Education</h2>
-<img src="https://github.com/DuruCeren/DuruCeren/blob/main/odtt.png" alt="ODTÜ logo" width="10%">
-<p>Middle East Technical University</p>
-<p>(Bachelor's) 2020-recent</p>
-<img src="https://github.com/DuruCeren/DuruCeren/blob/main/ted%20bu.png" alt="TED logo" width="5%">
-<p>TED ALiağa College</p>
-<p>(High School) 2017-2020</p>
-<img src="https://github.com/DuruCeren/DuruCeren/blob/main/oal.png" alt="OAL logo" width="10%">
-<p>Ordu Anatolian High School</p>
-<p>(High School) 2016-2017</p>
+When I’m not running stability analyses or discretizing flowfields, I enjoy technical game design, composing music, and traditional/digital art.
+
+---
+
+### 🔬 Current Research & Focus
+
+- 🚀 **Hypersonic Transition:** Developing Linear Stability Theory (LST) and $e^N$ transition envelopes for non-equilibrium flows over Mars reentry vehicles.
+- 🌌 **Orbital & Thermal Modeling:** Transient lumped-parameter thermal systems and constellation analysis for LEO satellites.
+- ✈️ **Flight Dynamics:** Nonlinear 6-DOF trajectory simulation, autopilot synthesis (SLC), and supersonic aerodynamic design.
+
+---
+
+### 🛠️ Tech Stack & Computational Toolkit
+
+**Scientific Computing & Programming**  
+`Python` • `MATLAB` • `Fortran` • `Simulink` • `LaTeX`
+
+**Aerodynamics & Analysis Tools**  
+`Custom LST Solvers` • `ANSYS Fluent` • `OpenVSP` • `XFLR5` • `VAPS XT`
+
+**CAD, Prototyping & Diagnostics**  
+`Siemens NX` • `SolidWorks` • `Particle Image Velocimetry (PIV)` • `Hot-Wire Anemometry` • `3D Printing (Cura)`
+
+---
+
+### 🚀 Highlighted Projects
+
+* **Mars Entry Boundary Layer Stability Solver:** In-house computational framework analyzing disturbance amplification ($-\alpha_i$), Mack acoustic modes, and TS waves across Mars atmospheric conditions.
+* **6-DOF Simulation & Autopilot Framework:** Rigid-body equations of motion, nonlinear aerodynamic coupling, and multi-loop control in MATLAB/Simulink.
+* **CUBESAI Constellation (MIC8 Global Finalist):** 6-satellite orbital architecture and passive thermal management modeling across solar/eclipse cycles.
+* **Method of Characteristics (MOC) Supersonic Solver:** Characteristic mesh generation and wave tracking over Von Kármán ogives at Mach 10.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuruCeren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Duru's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuruCeren&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
