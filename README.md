@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/duru-ceren-cerit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duruceren1952@gmail.com)
-[![Institution](https://img.shields.io/badge/METU-Aerospace%20Engineering-red?style=flat)](https://ae.metu.edu.tr/)
 
 I am an **Aerospace Engineer & Graduate Researcher** at Middle East Technical University (METU), focusing on **hypersonic aerothermodynamics, boundary layer transition prediction, and computational fluid dynamics**. 
 
